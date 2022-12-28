@@ -6,6 +6,7 @@
 class Openai{
 
     private function secret_key(){
+       // put your opeai key after Bearer like this Bearer sk-...................................
         return $secret_key = 'Bearer ';
     }
 
