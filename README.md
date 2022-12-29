@@ -7,7 +7,7 @@ Une petite description du projet
 
 ## Pour commencer
 Créer un compte sur https://beta.openai.com/ et generer une clé API
-Telecharger les fichiers index et openai dans un dossier sur votre serverur Wamp Lamp etc... pouvu que le couple PHP APACHE soit disponible.
+Télécharger les fichiers index et openai dans un dossier sur votre serverur Wamp Lamp etc... pouvu que le couple PHP APACHE soit disponible.
 
 ### Pré-requis
 - Clé open AI
