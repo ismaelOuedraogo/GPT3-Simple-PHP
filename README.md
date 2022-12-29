@@ -1,5 +1,5 @@
 # GPT3-Simple-PHP
-_(Utiliser l'ia dans vos traitement PHP avec cet exemple)_
+_(Utiliser l'ia dans vos traitements PHP avec cet exemple)_
 
 ![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)
 
