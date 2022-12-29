@@ -6,11 +6,12 @@ _(Utiliser l'ia dans vos traitement PHP avec cet exemple)_
 Une petite description du projet
 
 ## Pour commencer
-
+Créer un compte sur https://beta.openai.com/ et generer une clé API
 Telecharger les fichiers index et openai dans un dossier sur votre serverur Wamp Lamp etc... pouvu que le couple PHP APACHE soit disponible.
 
 ### Pré-requis
-
+- Clé open AI
+- Serveur web WAMP LAMP etc...
 - PHP 7
 
 ### Installation
@@ -25,8 +26,9 @@ Ouvrir un navigateur et rentrer l'url qui va pointer vers le bon dossier ex : ht
 
 ## Fabriqué avec
 
-Visuak STUDIO
+Visual STUDIO
 Api CURL d'open AI
+et beaucoup d'amour 
 
 ## Contributing
 
